@@ -1,5 +1,5 @@
 {
-    "version"           : "1.0.0",
+    "version"           : "1.0.1",
     "name"              : "PaymentReturnTechnisat",
     "marketplaceName"   : {"de":"Ruecklieferung TechniSat","en":"Return TechniSat"},
     "license"           : "MIT",
